@@ -1,7 +1,7 @@
 
 # Docusync: Cloud-Based Document Collaboration Tool
 
-![AWS Architecture Diagram](https://user-images.githubusercontent.com/placeholder/aws-architecture.png)
+![AWS Architecture Diagram](diagram.png)
 
 ## Overview
 Docusync is a secure, cloud-based platform for collaborative document management. It enables multiple users to upload, share, and version documents with robust security and global performance, leveraging AWS serverless architecture.
